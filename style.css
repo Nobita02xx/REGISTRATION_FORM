@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: bisque;
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+.form{
+    max-width: 50%;
+    margin-top: 5%;
+    margin-left: 37%;
+}
+.name label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+.name input{
+    font-size: 16px;
+    margin-left: 14%;
+    font-weight: 300;
+}
+.email label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+.email input{
+    font-size: 16px;
+    margin-left: 11%;
+    font-weight: 300;
+}
+.password label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+.password input{
+    font-size: 16px;
+    margin-left: 8%;
+    font-weight: 300;
+}
+.gender label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+.gender input{
+    font-size: 16px;
+    margin-left: 11%;
+    font-weight: 300;
+}
+.date label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+.date input{
+    font-size: 16px;
+    margin-left: 15%;
+    font-weight: 300;
+}
+.file label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+.file input{
+    font-size: 16px;
+    margin-left: 11%;
+    font-weight: 300;
+}
+.rate label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+.rate input{
+    font-size: 16px;
+    margin-left: 5%;
+    font-weight: 300;
+}
+.file label{
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+.file input{
+    font-size: 16px;
+    margin-left: 11%;
+    font-weight: 300;
+}
+.submit{
+    font-size: 16px;
+    margin-left: 11%;
+    font-weight: 300;
+}
